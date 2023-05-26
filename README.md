@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://aashiishh.hashnode.dev/](https://aashiishh.hashnode.dev/)
 
-- 💬 Ask me about **Pyhton**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **guleriaashish65@gmail.com**
 
