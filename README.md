@@ -1,6 +1,6 @@
 
-# 💫 About Me:
-I am a 20 year old tech enthusiast currently in my 3rd year of engineering.<br>I love tech and I am currently exploring fields like web development, web3, AIML and Cybersecurity.<br>Would love to collaborate on various kinds of projects.<br>I am also diving deep into DSA nowadays. <br>
+# About Me:
+I am a 20 year old tech enthusiast currently in my 3rd year of engineering.<br>I love tech and I am currently exploring fields like web development, web3, AIML and Cybersecurity.<br>Would love to collaborate on various kinds of projects.<br>I am also diving deep into DSA nowaday. <br>
 
 
 ## 🌐 Socials:
