@@ -1,61 +1,9 @@
-
-<br>
 <div align="center">
-    <a href="https://github.com/ashishguleria04">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishguleria04&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
-    </a>
-</div>
-<div align="center">
-<div align = "center">
-	 GitHub Stats
-
-![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishguleria04&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishguleria04&layout=compact&theme=radical)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishguleria04&radius=16&theme=high-contrast&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishguleria04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishguleria04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ashishguleria04&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ashishguleria04&theme=kimbie_dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-
-<div align="center">
-🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashishguleria04&theme=onestar&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
-
-<div align="center">
-	<h2>Techstack</h2>
-	<table>
-		<tr>
-			<td><code><img width="40" src="https://cdn.simpleicons.org/jupyter/FFFFFF" alt="Jupyter Notebook" title="Jupyter Notebook"/></code></td>
-			<td><code><img width="40" src="https://cdn.simpleicons.org/html5/FFFFFF" alt="HTML" title="HTML"/></code></td>
-			<td><code><img width="40" src="https://cdn.simpleicons.org/css3/FFFFFF" alt="CSS" title="CSS"/></code></td>
-			<td><code><img width="40" src="https://cdn.simpleicons.org/bootstrap/FFFFFF" alt="Bootstrap" title="Bootstrap"/></code></td>
-			<td><code><img width="40" src="https://cdn.simpleicons.org/tailwindcss/FFFFFF" alt="Tailwind CSS" title="Tailwind CSS"/></code></td>
-			<td><code><img width="40" src="https://cdn.simpleicons.org/shadcnui/FFFFFF" alt="ShadCn UI" title="ShadCn UI"/></code></td>
-			<td><code><img width="40" src="https://cdn.simpleicons.org/javascript/FFFFFF" alt="JavaScript" title="JavaScript"/></code></td>
-			<td><code><img width="40" src="https://cdn.simpleicons.org/react/FFFFFF" alt="React" title="React"/></code></td>
-		</tr>
-		<tr>
-			<td><code><img width="40" src="https://cdn.simpleicons.org/typescript/FFFFFF" alt="TypeScript" title="TypeScript"/></code></td>
-			<td><code><img width="40" src="https://cdn.simpleicons.org/npm/FFFFFF" alt="npm" title="npm"/></code></td>
-			<td><code><img width="40" src="https://cdn.simpleicons.org/nodedotjs/FFFFFF" alt="Node.js" title="Node.js"/></code></td>
-			<td><code><img width="40" src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express" title="Express"/></code></td>
-			<td><code><img width="40" src="https://cdn.simpleicons.org/webpack/FFFFFF" alt="webpack" title="webpack"/></code></td>
-			<td><code><img width="40" src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="Next.js" title="Next.js"/></code></td>
-			<td><code><img width="40" src="https://cdn.simpleicons.org/c/FFFFFF" alt="C" title="C"/></code></td>
-			<td><code><img width="40" src="https://cdn.simpleicons.org/cplusplus/FFFFFF" alt="C++" title="C++"/></code></td>
-		</tr>
-		<tr>
-			<td><code><img width="40" src="https://cdn.simpleicons.org/python/FFFFFF" alt="Python" title="Python"/></code></td>
-			<td><code><img width="40" src="https://cdn.simpleicons.org/mysql/FFFFFF" alt="MySQL" title="MySQL"/></code></td>
-			<td><code><img width="40" src="https://cdn.simpleicons.org/gnubash/FFFFFF" alt="bash" title="bash"/></code></td>
-			<td><code><img width="40" src="https://cdn.simpleicons.org/tensorflow/FFFFFF" alt="TensorFlow" title="TensorFlow"/></code></td>
-			<td><code><img width="40" src="https://cdn.simpleicons.org/linux/FFFFFF" alt="Linux" title="Linux"/></code></td>
-			<td><code><img width="40" src="https://cdn.simpleicons.org/ubuntu/FFFFFF" alt="Ubuntu" title="Ubuntu"/></code></td>
-		</tr>
-	</table>
-</div>
-
-
-
-
-
+###
