@@ -5,6 +5,6 @@
   <img src="https://streak-stats.demolab.com?user=ashishguleria04&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   
 </div>
-# React me at: guleriaashish85@gmail.com
+React me at: guleriaashish85@gmail.com
 
 ###
