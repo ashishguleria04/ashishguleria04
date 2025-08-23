@@ -6,8 +6,8 @@ Curious mind exploring software, web dev, AI, and robotics.
 
 ### Stats
 - 33 repositories  
-- 51 stars  
-- 45 followers  
+- 56 stars  
+- 47 followers  
 
 ---
 
