@@ -5,7 +5,7 @@ Curious mind exploring software, web dev, AI, and robotics.
 ---
 
 ### Stats
-- 33 repositories  
+- 34 repositories  
 - 56 stars  
 - 47 followers  
 
@@ -19,5 +19,5 @@ Curious mind exploring software, web dev, AI, and robotics.
 ---
 
 ### Connect
-[ashish-guleria.vercel.app](https://ashish-guleria.vercel.app)  
+[ashishguleria.tech](https://ashishguleria.tech)  
 [LinkedIn](https://www.linkedin.com/in/ashish-guleria04) · [Twitter](https://twitter.com/ashishguleria_)
